@@ -11,7 +11,7 @@ import nodejs from "./assets/nodejs.png"
 
 const App = () => {
   return (
-    <div className="flex flex-col md:flex-row flex-wrap " >
+    <div className="flex flex-col sm:flex-row flex-wrap " >
       <Card
         image={reactjs}
         title="React JS"
